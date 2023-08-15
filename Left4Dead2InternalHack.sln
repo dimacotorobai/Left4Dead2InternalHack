@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Left4Dead2InternalHack", "Left4Dead2InternalHack\Left4Dead2InternalHack.vcxproj", "{AB7E7B7A-05ED-401B-A1FD-F14ECC2BCCF6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L4D2Injector", "L4D2Injector\L4D2Injector.vcxproj", "{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{AB7E7B7A-05ED-401B-A1FD-F14ECC2BCCF6}.Release|x64.Build.0 = Release|x64
 		{AB7E7B7A-05ED-401B-A1FD-F14ECC2BCCF6}.Release|x86.ActiveCfg = Release|Win32
 		{AB7E7B7A-05ED-401B-A1FD-F14ECC2BCCF6}.Release|x86.Build.0 = Release|Win32
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Debug|x64.ActiveCfg = Debug|x64
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Debug|x64.Build.0 = Debug|x64
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Debug|x86.Build.0 = Debug|Win32
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Release|x64.ActiveCfg = Release|x64
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Release|x64.Build.0 = Release|x64
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Release|x86.ActiveCfg = Release|Win32
+		{A3D50C20-8AA5-48B7-BB56-B6B87D42F14D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
